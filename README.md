@@ -2,7 +2,7 @@
 End Goal: Create a user-friendly program that will send a personalized email to a large amount of people all at once. 
 
 Smaller goals for the project:
-- [ ] Write a program that will send an email to an individual (COMPLETED: _________)
+- [X] Write a program that will send an email to an individual (COMPLETED: April 3, 2019)
 - [ ] Write a program that will send emails to multiple people (COMPLETED: _________)
 - [ ] Improve the code where the program will be able to personalize the email (COMPLETED: _________)
 - [ ] Create a GUI for the program (COMPLETED: _________)
