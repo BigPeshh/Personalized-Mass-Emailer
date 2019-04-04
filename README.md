@@ -1,6 +1,4 @@
 # Personalized-Mass-Emailer
-April 3, 2019
-
 End Goal: Create a user-friendly program that will send a personalized email to a large amount of people all at once. 
 
 Smaller goals for the project:
